@@ -1,5 +1,8 @@
 # github-team
 
+James Nguyen
+I learned how Github is beneficial to teams because it allows for collaboration on code.
+
  Axel Pioquinto, 
  What I learned about github is that it is a team based system or program.
 
